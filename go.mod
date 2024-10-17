@@ -1,4 +1,4 @@
-module github.com/qovan/watchbot/watchdog
+module github.com/qovan/watchdog
 
 go 1.22.5
 
